@@ -1,4 +1,4 @@
-# Bag of Words Meets Bags of Popcorn
+# IMDB Sentiment Analysis
 
 https://www.kaggle.com/code/elenaeds/bag-of-words-meets-bags-of-popcorn-optuna?scriptVersionId=188730908
 
